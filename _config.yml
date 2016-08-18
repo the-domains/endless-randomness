@@ -1,0 +1,14 @@
+layout_spectrum: 0.15077724307775497
+typography_spectrum: 0.5972890872508287
+color:
+  brandStrength: 0.9057638647500426
+  lightness: 0.04810880497097969
+  saturation: 0.41472224122844636
+  rhythmicContrast: 0.3901029354892671
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: endless randomness
